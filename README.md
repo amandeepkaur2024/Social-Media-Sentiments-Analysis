@@ -6,8 +6,8 @@ Social media sentiment analysis involves evaluating and interpreting user-genera
 **Objective:**<br>
 Social media sentiment analysis involves examining and interpreting user emotions and opinions expressed on various social media platforms. It typically includes measuring the levels of positive, negative, and neutral sentiments, as well as tracking engagement metrics such as likes, shares, and comments. The analysis also investigates trends and factors influencing sentiment, including hashtags, influencer activity, and seasonal variations. This information is utilized by businesses, marketers, and researchers to gain insights into public perception, optimize content strategies, and enhance audience engagement through data-driven decision-making.
 
-**Description of Dataset:**
-This dataset contains a list of video games with sales greater than 100,000 copies. Fields include:-
+**Description of Dataset:**<br>
+This dataset contains a list of video games with sales greater than 100,000 copies. Fields include:-<br>
 Text<br>
 Sentiment<br> 
 Timestamp<br>
