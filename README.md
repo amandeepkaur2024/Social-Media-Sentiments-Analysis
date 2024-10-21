@@ -6,7 +6,7 @@ Social media sentiment analysis involves evaluating and interpreting user-genera
 **Objective:**<br>
 Social media sentiment analysis involves examining and interpreting user emotions and opinions expressed on various social media platforms. It typically includes measuring the levels of positive, negative, and neutral sentiments, as well as tracking engagement metrics such as likes, shares, and comments. The analysis also investigates trends and factors influencing sentiment, including hashtags, influencer activity, and seasonal variations. This information is utilized by businesses, marketers, and researchers to gain insights into public perception, optimize content strategies, and enhance audience engagement through data-driven decision-making.
 
-**Description of Dataset**
+**Description of Dataset:**
 This dataset contains a list of video games with sales greater than 100,000 copies. Fields include:-
 Text<br>
 Sentiment<br> 
@@ -24,13 +24,13 @@ Hour<br>
 
 [Dataset](https://www.kaggle.com/datasets/kashishparmar02/social-media-sentiments-analysis-dataset)
 
-**Methodology**
+**Methodology:**
 - Data Importing and Understanding
 - Data preparation and cleaning
 - Asking and answering interesting questions
 - Summarizing inferences and drawing conclusions
 
-**Conclusion**
+**Conclusion:**
 - Valuable Insights: The Social Media Sentiment Analysis reveals crucial insights into audience perceptions, engagement patterns, and regional sentiment differences across various platforms.
 - Data-Driven Decisions: By understanding sentiment distribution, the influence of timing and hashtags, and the role of influencers, stakeholders can make informed decisions to optimize content strategies and enhance brand reputation.
 - Strategic Implications: These insights will guide future marketing initiatives, allowing for tailored strategies that foster stronger connections with diverse audiences and improve overall social media effectiveness.
